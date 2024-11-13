@@ -326,3 +326,18 @@ header.nav .nav-links li a:hover {
 .cta-text, .cta-btn-wrapper {
     z-index: 1;
 }
+
+footer {
+    background-color: var(--black);
+    width: 100%;
+    color: var(--grey-variant);
+    padding: 48px;
+    text-align: center;
+    font-size: 18px;
+}
+
+footer a {
+    font-weight: 800;
+    color: var(--orange-pale);
+    text-decoration: none;
+}
